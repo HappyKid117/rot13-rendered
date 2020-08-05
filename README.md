@@ -1,6 +1,6 @@
 # rot13-rendered
 
-This code decrypts Atbash Cipher
+This code decrypts Rot-13 Cipher
 
 ## Input
 
